@@ -29,7 +29,7 @@ define( 'DB_USER', 'b67b6556a385e7' );
 define( 'DB_PASSWORD', 'b67b6556a385e7' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'us-cdbr-iron-east-03.cleardb.net/heroku_c51d0b47d88b0cc?reconnect=true' );
+define( 'DB_HOST', 'us-cdbr-iron-east-03.cleardb.net');
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
